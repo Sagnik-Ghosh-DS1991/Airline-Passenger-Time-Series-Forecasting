@@ -13,4 +13,6 @@ Making this forecast could be quite beneficial to the company as it would help t
 
 This POC contain below file:
 
-- 
+- airline-passenger-traffic.csv - Airline Data file
+- promotion.csv - Exoginious Data for SARIMAX modelling
+- time-series-code.ipynb - iPython Notebook
